@@ -38,8 +38,9 @@ Complete the following steps:
 # Hints
 Use console.log inside of your JavaScript code to see what your data looks like at each step.
 
-Refer to the Plotly.js documentationLinks to an external site. when building the plots.
+Refer to the Plotly.js documentation links to an external site. when building the plots.
 
 # References
 Week 14 activites and samples for starter code support and trouble shooting.
+
 Week 14 challenge speed run starter code support and trouble shooting.
